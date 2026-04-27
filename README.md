@@ -17,4 +17,6 @@ A modern Tic-Tac-Toe game built using Python and Tkinter, featuring both single-
    python 37428756.py
 
    ## Preview
-![Game Screenshot](screenshot.png)
+<p align="center">
+  <img src="screenshot.png" width="400"/>
+</p>
